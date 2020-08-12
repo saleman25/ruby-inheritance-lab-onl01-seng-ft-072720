@@ -4,7 +4,7 @@ class Teacher < User
 
 
 def teach 
-  @KNOWLEDGE
+  KNOWLEDGE
 end 
   
 end
